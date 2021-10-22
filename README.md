@@ -1,7 +1,7 @@
 # iSpam
 Python message spammer 
 
-!!! If you want a noraml iSpam.exe (onefile) app go to the download link here: https://g0.si/iSpam !!! *recomended way to dwonlaod
+
 
 How to use!
 
